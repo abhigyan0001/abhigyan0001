@@ -14,23 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey There It's Avi, Manager Of [GuitarHost](https://guitarhost.tech) And a part time developer.
+### Hey There It's Don Baba, Founder Of [Disclient](https://discord.gg/DdbMV4cvec) And a part time developer.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tsdon0001" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-2/766588038703742996.png)
-
-<a href="https://discord.gg/9VNQSYkJZj">
+<a href="https://discord.gg/DdbMV4cvec">
 
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 </a>
 
-<a href="https://twitter.com/GuitarHost">
-
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-
-</a>
 
 <a href="https://instagram.com/tsdon0001/">
 
@@ -68,8 +61,5 @@ Here are some ideas to get you started:
 
 ### Also Available In
 
-[Discord](https://discord.gg/guitarhost)<br>
-
-[Twitter](https://twitter.com/GuitarHost)<br>
-
-[YouTube](https://youtube.com/channel/ppkarmy)
+[Discord](https://discord.gg/DdbMV4cvec)<br>
+[Instagram](https://instagram.com/tsdon001)
