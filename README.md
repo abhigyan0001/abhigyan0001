@@ -14,52 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey There It's Don Baba, Founder Of [Disclient](https://discord.gg/DdbMV4cvec) And a part time developer.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tsdon0001" alt="sujal-ops-cyber" /> </p>
-
-<a href="https://discord.gg/DdbMV4cvec">
-
-  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-
-</a>
-
-
-<a href="https://instagram.com/tsdon0001/">
-
-  <img align="left" alt="Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-</a>
-
-<br />
-
-**Languages and Tools:** &nbsp;
-
- <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
- 
-
 <p align="center">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsdon0001&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsdon0001&show_icons=true&theme=radical&line_height=21" alt="github stats"/>
+</p>
 
- 
 
- 
-
-  
-
-### Also Available In
-
-[Discord](https://discord.gg/DdbMV4cvec)<br>
-[Instagram](https://instagram.com/tsdon001)
