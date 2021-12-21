@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hello 👋</h1>
+
+```JS
+const aboutMe = {
+    name: "Abhigyan Chatterjee",
+    languages: ["Javascript", "Typescript", "golang"],
+    stacks: ["MERN", "MEVN"]
+}
+```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tsdon0001" alt="sujal-ops-cyber" /> </p>
 <p align="center">
